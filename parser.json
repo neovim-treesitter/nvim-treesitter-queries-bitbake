@@ -1,9 +1,9 @@
 {
-  "semver": false,
   "parser_version": "a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b",
-  "location": null,
-  "lang": "bitbake",
   "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-bitbake"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-bitbake",
+  "semver": false,
+  "lang": "bitbake",
+  "location": null
 }
